@@ -123,7 +123,7 @@ async def search_(app: app, msg: Message):
         return
     except Exception as e:
         await to_del.delete()
-        await msg.reply_text(f"**sᴏᴍᴇᴛʜɪɴɢ ᴡᴇɴᴛ ᴡʀᴏɴɢ :\nʀᴇᴘᴏʀᴛ ᴀᴛ ɪᴛ** @EvoXpro")
+        await msg.reply_text(f"**sᴏᴍᴇᴛʜɪɴɢ ᴡᴇɴᴛ ᴡʀᴏɴɢ :\nʀᴇᴘᴏʀᴛ ᴀᴛ ɪᴛ** @sam_dude2")
         print(f"error : {e}")
         return
 
@@ -192,7 +192,7 @@ async def stack_search_(app: app, msg: Message):
         return
     except Exception as e:
         await to_del.delete()
-        await msg.reply_text(f"**sᴏᴍᴇᴛʜɪɴɢ ᴡᴇɴᴛ ᴡʀᴏɴɢ :\nʀᴇᴘᴏʀᴛ ᴀᴛ ɪᴛ** @EvoXpro")
+        await msg.reply_text(f"**sᴏᴍᴇᴛʜɪɴɢ ᴡᴇɴᴛ ᴡʀᴏɴɢ :\nʀᴇᴘᴏʀᴛ ᴀᴛ ɪᴛ** @Esam_dude2")
         print(f"error : {e}")
         return
 

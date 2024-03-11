@@ -29,7 +29,7 @@ ROY = [
     [
         InlineKeyboardButton(
             text="ᗰЄ🥂💘",
-            url=f"https://t.me/About_EvoXpro_Owner"),
+            url=f"https://t.me/Sam"),
         InlineKeyboardButton(text="αηу qυєѕтιση мєѕѕ нєяє", url=f"https://t.me/+j5Wdl4LWJiNhNTA1")
     ],
 ]
