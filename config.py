@@ -55,9 +55,9 @@ DEEP_API = getenv("DEEP_API")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/golujha9936/EvoXpro/",
+    "https://github.com/Riyasahu2004/Upstreammusic/",
 )
-UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
+UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # ----------------------------------------------------------------
@@ -69,8 +69,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/About_EvoXpro_Owner")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+j5Wdl4LWJiNhNTA1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+C_Pi4o_7XdE2M2I1")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+Yl_g-YlbVFkzNWE1")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
